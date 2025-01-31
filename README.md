@@ -1,4 +1,3 @@
-```
 # JLP Data Fetcher
 
 📡 **Fetch and display JLP Pool & Custody data from Solana in real-time. No database required.**
